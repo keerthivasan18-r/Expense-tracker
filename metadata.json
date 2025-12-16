@@ -1,0 +1,5 @@
+{
+  "name": "Expense Tracker",
+  "description": "A smart expense tracker and budget manager for students, featuring AI-powered categorization and financial insights.",
+  "requestFramePermissions": []
+}
